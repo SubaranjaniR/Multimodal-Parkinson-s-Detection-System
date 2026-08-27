@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+tensorflow==2.15.0
+keras==3.14.1
+joblib
+numpy
+pandas
+scikit-learn
+librosa
+soundfile
+reportlab
+google-generativeai
+torchaudio
+bcrypt
